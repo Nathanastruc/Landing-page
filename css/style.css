@@ -1,0 +1,231 @@
+
+body, html {
+	padding:0;
+	margin:0;
+}
+
+body {
+	font-family: 'Lobster', cursive;
+	background-color: #F5F8FD;
+
+}
+
+a, a.hover {
+	text-decoration: none;
+}
+
+.container-fluid {
+	padding: 0; 
+}
+
+.separator {
+	height: 3px;
+	width:5%;
+	border:none;
+	box-shadow: none;
+	background-color:#9DB8EA;
+
+}
+
+
+ .header {
+ 	background-color: #5385DC;
+ 	height: 90px;
+ 	line-height: 90px;
+
+ }
+
+ .logo  {
+ 	color: #E6EDFA;
+ 	font-family: 'Lobster', cursive;
+ 	letter-spacing: 2px;
+ 	font-size: 30px;
+ 	float: right;
+
+ }
+
+ .menu {
+ 	float: left; 
+
+
+ }
+
+ .menu a {
+ 	color: #E6EDFA;
+ 	font-family: 'Source Serif Pro', serif;
+ 	margin-right: 20px;
+
+ }
+
+
+
+
+.banner {
+	width: 100%;
+	max-width:100%;
+}
+
+.ban {
+	width: 100%; 
+	max-width: 100%;
+	position: relative;
+}
+
+.ban img {
+	width: 100%
+	max-width: 100%;
+}
+
+.inner-banner {
+	position: absolute; 
+	top:70%;
+	left: 40;   
+	width: 100%;
+	 text-align: center; 
+	 
+}
+
+.inner-banner h1 {
+	color:#9DB8EA;
+	text-shadow: 1px 1px 20px #FCE99B;
+	font-family: 'Lobster', cursive;
+	text-align:left;
+}
+
+
+
+
+
+.explain {
+	text-align: center;
+
+
+
+}
+
+.explain p {
+	font-family: 'Source Serif Pro', serif;
+	font-size: 25px;
+	color: #0B3155;
+	margin-top: 5%;
+
+}
+
+
+
+#about {
+	
+	margin-top: 5%;
+	height: 90px;
+	text-align:center;
+	background-color: #5B88DA;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+
+}
+
+.about {
+	margin-top: 10%;
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+	color: #0B3155;
+
+}
+
+.about  article h2 {
+
+margin-top: 10%;	
+font-family: 'Lobster', cursive;
+color: #0B3155;
+
+
+}
+
+
+
+#portfolio {
+	margin-top: 5%;
+	height: 90px;
+	text-align:center;
+	background-color: #5B88DA;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+
+	
+
+}
+
+.portfolio {
+margin-top: 10%;
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+	color: #0B3155;
+
+	
+}
+
+.portfolio article h2 {
+	margin-top: 10%;	
+font-family: 'Lobster', cursive;
+color: #0B3155;
+
+
+}
+
+.paragraphe {
+	text-align: center;
+	margin-top: 10%;
+	
+	font-size: 20px;
+
+}
+
+
+
+#trois {
+	margin-top: 5%;
+	height: 90px;
+	text-align:center;
+	background-color: #5B88DA;
+	font-size: 40px;
+	font-family: 'Lobster', cursive;
+	font-weight: bold;
+
+}
+
+.trois {
+	margin-top: 10%;
+	text-align: center;
+	font-family: 'Source Serif Pro', serif;
+	color: #0B3155;
+
+}
+
+.trois article h2{
+	margin-top: 10%;	
+font-family: 'Lobster', cursive;
+color: #0B3155;
+
+}
+
+.trois p{
+	font-family: 'Lobster', cursive;
+color: #0B3155;
+}
+
+.paragraphe {
+	text-align: center;
+	margin-top: 10%;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+	color: #0B3155;
+
+}
+
+
+
+
+
+
